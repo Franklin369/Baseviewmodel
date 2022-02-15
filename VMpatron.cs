@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
 
-namespace Lampara.VistaModelo
+namespace Nombredetuproyecto.VistaModelo
 {
-   public class VMmusica:BaseViewModel
+   public class VMpatron:BaseViewModel
     {
         #region VARIABLES
         string _Texto;
