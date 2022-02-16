@@ -13,7 +13,7 @@ namespace Nombredetuproyecto.VistaModelo
         string _Texto;
         #endregion
         #region CONSTRUCTOR
-        public VMmusica(INavigation navigation)
+        public VMpatron(INavigation navigation)
         {
             Navigation = navigation;
         }
